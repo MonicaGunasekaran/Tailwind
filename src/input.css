@@ -1,0 +1,6 @@
+
+@import "tailwindcss";
+@theme{   
+  --font-italiana: "Italiana", "sans-serif";
+  --text-10xl: 6.57rem;
+}
